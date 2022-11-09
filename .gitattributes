@@ -32,10 +32,39 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# BitBake source file
-*.bb linguist-detectable=true
-*.bb linguist-documentation=false
-*.bb linguist-language=BitBake
+# PowerShell source file
+# PowerShell script
+*.ps1 linguist-detectable=true
+*.ps1 linguist-documentation=false
+*.ps1 linguist-language=PowerShell
+# PowerShell XML document
+*.ps1xml linguist-detectable=true
+*.ps1xml linguist-documentation=false
+*.ps1xml linguist-language=PowerShell
+# PowerShell Console file
+*.psc1 linguist-detectable=true
+*.psc1 linguist-documentation=false
+*.psc1 linguist-language=PowerShell
+# PowerShell Data file
+*.psd1 linguist-detectable=true
+*.psd1 linguist-documentation=false
+*.psd1 linguist-language=PowerShell
+# PowerShell Script Module file
+*.psm1 linguist-detectable=true
+*.psm1 linguist-documentation=false
+*.psm1 linguist-language=PowerShell
+# PowerShell Session Configuration file
+*.pssc linguist-detectable=true
+*.pssc linguist-documentation=false
+*.pssc linguist-language=PowerShell
+# PowerShell Role Capability file
+*.psrc linguist-detectable=true
+*.psrc linguist-documentation=false
+*.psrc linguist-language=PowerShell
+# PowerShell CMDLet Definition XML document file
+*.cdxml linguist-detectable=true
+*.cdxml linguist-documentation=false
+*.cdxml linguist-language=PowerShell
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -173,7 +202,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, August 30th at 2:34 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File type: gitattributes file (*.gitattributes)
+# File version: 3 (2022, Wednesday, November 9th at 3:41 pm PST)
+# Line count (including blank lines and compiler line): 209
 # End of script

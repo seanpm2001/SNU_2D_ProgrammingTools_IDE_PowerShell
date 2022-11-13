@@ -1,0 +1,8 @@
+.ps1 (Script)
+.ps1xml (XML Document)
+.psc1 (Console File)
+.psd1 (Data File)
+.psm1 (Script Module)
+.pssc (Session Configuration File)
+.psrc (Role Capability File)
+.cdxml (Cmdlet Definition XML Document)
